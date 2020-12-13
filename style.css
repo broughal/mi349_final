@@ -12,3 +12,10 @@ body {
 html {
   background: #aecbd6;
 }
+
+
+section {
+  display: flex;
+}
+
+
