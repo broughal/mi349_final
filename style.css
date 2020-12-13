@@ -17,10 +17,6 @@ article:nth-of-type(3) {
     flex: 1;
 }
 
-#infoArticle {
-    display: flex;
-}
-
 body {
     background: #fff;
     border-top: 10px solid #8fd4d8;
@@ -50,6 +46,10 @@ h3 {
 
 html {
     background: #88aed0;
+}
+
+#infoArticle {
+    display: flex;
 }
 
 #resume {
