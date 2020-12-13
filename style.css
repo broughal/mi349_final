@@ -7,7 +7,7 @@ body {
   font-family: Arial, Helveticam, sans-seriff;
   margin: 35px;
   padding: 35px;
-  color: #ffff99;
-  border-top: 10px solid #242424;
+  color: #242424;
+  border-top: 10px solid #ffff99;
   background: #fff;
 }
