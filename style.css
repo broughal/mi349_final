@@ -18,7 +18,6 @@ article:nth-of-type(3) {
 }
 
 #infoArticle {
-  border-top: 2px #ccc;
   display: flex;
 }
 
