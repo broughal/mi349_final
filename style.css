@@ -1,55 +1,55 @@
 
 article {
-  background-color: #aecbd6;
-  margin: 5px;
-  padding: 5px;
+    background-color: #aecbd6;
+    margin: 5px;
+    padding: 5px;
 }
 
 article:nth-of-type(1) {
-  flex: 1;
+    flex: 1;
 }
 
 article:nth-of-type(2) {
-  flex: 1;
+    flex: 1;
 }
 
 article:nth-of-type(3) {
-  flex: 1;
+    flex: 1;
 }
 
 #infoArticle {
-  display: flex;
+    display: flex;
 }
 
 body {
-  background: #fff;
-  border-top: 10px solid #8fd4d8;
-  color: #242424;
-  font-family: Arial, Helveticam, sans-seriff;
-  margin: 35px;
-  padding: 35px;
+    background: #fff;
+    border-top: 10px solid #8fd4d8;
+    color: #242424;
+    font-family: Arial, Helveticam, sans-seriff;
+    margin: 35px;
+    padding: 35px;
 }
 
 h1 {
-  font-size: 2em;
+    font-size: 2em;
 }
 
 h2 {
-  font-size: 1.25em;
+    font-size: 1.25em;
 }
 
 h3 {
-  font-size: 1em;
+    font-size: 1em;
 }
 
 html {
-  background: #88aed0;
+    background: #88aed0;
 }
 
 #resume {
-  width: 750px;  
+    width: 750px;  
 }
 
 #work {
-  width: 750px;  
+    width: 750px;  
 }
