@@ -19,7 +19,7 @@ article:nth-of-type(3) {
 
 body {
   background: #fff;
-  border-top: 10px solid #88aed0;
+  border-top: 10px solid #8fd4d8;
   color: #242424;
   font-family: Arial, Helveticam, sans-seriff;
   margin: 35px;
@@ -27,7 +27,7 @@ body {
 }
 
 html {
-  background: #8fd4d8;
+  background: #88aed0;
 }
 
 section {
