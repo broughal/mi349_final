@@ -19,6 +19,7 @@ article:nth-of-type(3) {
 
 #infoArticle {
   border-top: 1px dotted #ccc;
+  display: flex;
 }
 
 body {
@@ -33,8 +34,3 @@ body {
 html {
   background: #88aed0;
 }
-
-section {
-  display: flex;
-}
-
