@@ -1,8 +1,8 @@
 
 article {
     background-color: #aecbd6;
-    margin: 5px;
-    padding: 5px;
+    margin: 8px;
+    padding: 8px;
 }
 
 article:nth-of-type(1) {
